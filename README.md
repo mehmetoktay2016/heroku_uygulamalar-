@@ -17,3 +17,15 @@ Peki bu özellikler nelerdir ?
 
 Yukarıdaki özellikleri doldurduktan sonra "predict"e basınız.
 
+# Film tavsiye sistemi
+
+Uygulama linki : https://yeni-at.herokuapp.com/
+
+Amaç : Filmin ismini girdikten sonra size yeni filmler önerecektir. 
+
+# Satış tahmin uygulaması
+
+Uygulama linki : https://kreddiii.herokuapp.com/
+
+Amaç : Tv , radyo ve gazete reklam harcama miktarlarını girdikten sonra, ne kadar satış olabileceğinin değerini veriyor.
+
